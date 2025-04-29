@@ -1,2 +1,2 @@
 # .github
-A complete yet lightweight plugin which handles just too many features!
+Special repository used to customize the profile of the ChatPlugin organization.
